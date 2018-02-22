@@ -27,9 +27,9 @@ namespace WpfSample
             list = new List<Customers>()
             {
                 new Customers() {AD="Ahmet", SOYAD="CAN" },
-                new Customers() {AD="Ahmet", SOYAD="CAN" },
-                new Customers() {AD="Ahmet", SOYAD="CAN" },
-                new Customers() {AD="Ahmet", SOYAD="CAN" },
+                new Customers() {AD="Halil", SOYAD="Taş" },
+                new Customers() {AD="Atalay", SOYAD="Toker" },
+                new Customers() {AD="Samet", SOYAD="Meşe" },
             };
             Customers lst = new Customers();
             lst.AD = "Ali";
